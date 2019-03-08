@@ -361,13 +361,13 @@ MIT
 
 @angular/material/button
 
+@angular/material/progress-spinner
+
 @angular/material/expansion
 
 @angular/material/sort
 
 @angular/material/table
-
-@angular/material/progress-spinner
 
 @angular/material/icon
 
